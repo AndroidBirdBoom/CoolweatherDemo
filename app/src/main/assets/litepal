@@ -1,0 +1,10 @@
+<litesql>
+    <dbname value="cool_weather_demo" />
+
+    <version value="1" />
+    <list>
+        <mapping class="com.example.jack.coolweatherdemo.db.City" />
+        <mapping class="com.example.jack.coolweatherdemo.db.County" />
+        <mapping class="com.example.jack.coolweatherdemo.db.Province" />
+    </list>
+</litesql>
